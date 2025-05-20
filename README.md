@@ -82,7 +82,7 @@ By completing this task, you will:
 
 ---
 
-## 📈 Extension Idea
+##  Extension Idea
 
 You can visualize the results using a plotting library like `matplotlib` or `seaborn` to present the trends more clearly.
 
